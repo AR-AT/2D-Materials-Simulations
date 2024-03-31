@@ -1,0 +1,92 @@
+data_B60
+_audit_creation_date              2023-10-20
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P6/MMM'
+_symmetry_Int_Tables_number       191
+_symmetry_cell_setting            hexagonal
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -y,x-y,z
+  -x+y,-x,z
+  -x,-y,z
+  y,-x+y,z
+  x-y,x,z
+  y,x,-z
+  x-y,-y,-z
+  -x,-x+y,-z
+  -y,-x,-z
+  -x+y,y,-z
+  x,x-y,-z
+  -x,-y,-z
+  y,-x+y,-z
+  x-y,x,-z
+  x,y,-z
+  -y,x-y,-z
+  -x+y,-x,-z
+  -y,-x,z
+  -x+y,y,z
+  x,x-y,z
+  y,x,z
+  x-y,-y,z
+  -x,-x+y,z
+_cell_length_a                    13.8564
+_cell_length_b                    13.8564
+_cell_length_c                    30.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 120.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+B1     B     0.12332   0.12332   0.00000   0.00000  Uiso   1.00
+B2     B     0.25000   0.25000   0.00000   0.00000  Uiso   1.00
+B3     B     0.37668   0.37668   0.00000   0.00000  Uiso   1.00
+B4     B     0.24993   0.12497   0.00000   0.00000  Uiso   1.00
+B5     B     0.50000   0.25000   0.00000   0.00000  Uiso   1.00
+B6     B     0.37503   0.12497   0.00000   0.00000  Uiso   1.00
+B7     B     0.50000   0.12332   0.00000   0.00000  Uiso   1.00
+B8     B     0.62497   0.24993   0.00000   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+B1     B2      1.755   .     S
+B1     B4      1.743   .     S
+B1     B4      1.743   6     S
+B1     B1      1.709   5     S
+B1     B1      1.709   6     S
+B2     B4      1.732   6     S
+B2     B3      1.755   .     S
+B2     B6      1.732   12    S
+B2     B6      1.732   6     S
+B3     B6      1.743   6     S
+B3     B6      1.743   12    S
+B3     B7      1.709   12    S
+B3     B7      1.709   6     S
+B4     B1      1.743   5     S
+B4     B6      1.733   12    S
+B4     B2      1.732   5     S
+B5     B6      1.732   12    S
+B5     B7      1.755   .     S
+B5     B7      1.755   12    S
+B5     B8      1.732   3_665 S
+B6     B7      1.743   .     S
+B6     B6      1.733   12    S
+B6     B3      1.743   5     S
+B6     B2      1.732   5     S
+B7     B8      1.743   .     S
+B7     B3      1.709   5     S
+B7     B7      1.709   11_655 S
+B8     B5      1.732   2_655 S
+B8     B8      1.733   2_655 S
+B8     B8      1.733   3_665 S
+B8     B7      1.743   11_655 S

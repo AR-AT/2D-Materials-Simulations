@@ -1,0 +1,111 @@
+data_X3\opted-\Si
+_audit_creation_date              2023-10-20
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    3.8738
+_cell_length_b                    7.8187
+_cell_length_c                    60.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+B1     B     0.75000   0.34786   0.30417   0.00000  Uiso   1.00
+B2     B     0.75000   0.54713   0.30417   0.00000  Uiso   1.00
+B3     B     0.25000   0.65214   0.30417   0.00000  Uiso   1.00
+B4     B     0.25000   0.45287   0.30417   0.00000  Uiso   1.00
+B5     B     0.25000   0.84786   0.30417   0.00000  Uiso   1.00
+B6     B     0.25000   0.04713   0.30417   0.00000  Uiso   1.00
+B7     B     0.75000   0.15214   0.30417   0.00000  Uiso   1.00
+B8     B     0.75000   0.95287   0.30417   0.00000  Uiso   1.00
+Si9    Si   -0.00000   0.00000   0.14397   0.00000  Uiso   1.00
+Si10   Si   -0.00000   0.00000   0.05606   0.00000  Uiso   1.00
+Si11   Si   -0.00000   0.50000   0.14397   0.00000  Uiso   1.00
+Si12   Si   -0.00000   0.50000   0.05606   0.00000  Uiso   1.00
+Si13   Si    0.50000   0.00000   0.07845   0.00000  Uiso   1.00
+Si14   Si    0.50000   0.00000   0.16636   0.00000  Uiso   1.00
+Si15   Si    0.50000   0.50000   0.07845   0.00000  Uiso   1.00
+Si16   Si    0.50000   0.50000   0.16636   0.00000  Uiso   1.00
+Si17   Si    0.50000   0.75000   0.18742   0.00000  Uiso   1.00
+Si18   Si    0.50000   0.75000   0.09992   0.00000  Uiso   1.00
+Si19   Si    0.50000   0.25000   0.18742   0.00000  Uiso   1.00
+Si20   Si    0.50000   0.25000   0.09992   0.00000  Uiso   1.00
+Si21   Si   -0.00000   0.25000   0.03500   0.00000  Uiso   1.00
+Si22   Si   -0.00000   0.25000   0.12250   0.00000  Uiso   1.00
+Si23   Si    0.00000   0.75000   0.03500   0.00000  Uiso   1.00
+Si24   Si   -0.00000   0.75000   0.12250   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+B1     B7      1.530   .     S
+B1     B2      1.558   .     S
+B1     B4      2.104   1_655 S
+B2     B4      2.072   1_655 S
+B2     B3      2.104   1_655 S
+B3     B5      1.530   .     S
+B3     B4      1.558   .     S
+B3     B2      2.104   1_455 S
+B4     B2      2.072   1_455 S
+B4     B1      2.104   1_455 S
+B5     B6      1.558   1_565 S
+B5     B8      2.104   1_455 S
+B6     B5      1.558   1_545 S
+B6     B8      2.072   1_445 S
+B6     B7      2.104   1_455 S
+B6     B8      2.072   1_545 S
+B7     B8      1.558   1_545 S
+B7     B6      2.104   1_655 S
+B8     B7      1.558   1_565 S
+B8     B6      2.072   1_665 S
+B8     B5      2.104   1_655 S
+B8     B6      2.072   1_565 S
+Si9    Si24    2.341   1_545 S
+Si9    Si22    2.341   .     S
+Si9    Si14    2.357   .     S
+Si9    Si14    2.357   1_455 S
+Si10   Si23    2.328   1_545 S
+Si10   Si21    2.328   .     S
+Si10   Si13    2.357   .     S
+Si10   Si13    2.357   1_455 S
+Si11   Si22    2.341   .     S
+Si11   Si24    2.341   .     S
+Si11   Si16    2.357   1_455 S
+Si12   Si21    2.328   .     S
+Si12   Si23    2.328   .     S
+Si12   Si15    2.357   1_455 S
+Si13   Si20    2.341   .     S
+Si13   Si18    2.341   1_545 S
+Si13   Si10    2.357   1_655 S
+Si14   Si19    2.328   .     S
+Si14   Si17    2.328   1_545 S
+Si14   Si9     2.357   1_655 S
+Si15   Si18    2.341   .     S
+Si15   Si20    2.341   .     S
+Si15   Si12    2.357   1_655 S
+Si16   Si17    2.328   .     S
+Si16   Si19    2.328   .     S
+Si16   Si11    2.357   1_655 S
+Si17   Si14    2.328   1_565 S
+Si18   Si24    2.364   .     S
+Si18   Si13    2.341   1_565 S
+Si18   Si24    2.364   1_655 S
+Si20   Si22    2.364   1_655 S
+Si22   Si20    2.364   1_455 S
+Si23   Si10    2.328   1_565 S
+Si24   Si18    2.364   1_455 S
+Si24   Si9     2.341   1_565 S
